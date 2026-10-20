@@ -1,0 +1,10 @@
+{
+  "description": "Enables banks to upload and verify bank statements via QR codes with a user-friendly dashboard and mobile-optimized public verification view.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
